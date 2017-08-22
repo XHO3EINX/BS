@@ -1,11 +1,12 @@
-Cd Robot 5
+Cd Robot 1
 ./launch.sh install
 ./launch.sh
-Enter Number
-Goto Folder Data
-Config.lua
-Set Id sudo Robot 2 And 3 (Just 2,3)
-Open Telegram Robot 2 and Type 
-plugins - anti_spam
-plugins + boobs
-Send To Robot 5
+Enter Number 
+Goto Data Folder 
+goto config.lua
+Set Your ID 
+(@userinfobot)
+Goto Pv Bot
+Type:
+Plugins + chat_random
+Plugins - Anti_spam
