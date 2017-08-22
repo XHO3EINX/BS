@@ -55,15 +55,15 @@ if matches[1] == "بای" then
             return answers[math.random(#answers)]
 			end
 	  end
-	  if matches[1] == "شروع" then
+	  if matches[1] == "الو" then
       if msg.to.type == 'channel' or 'chat' then
-            local answers = {'spamer 500 !boobs'}
+            local answers = {'جوووووون عشقم','اینقدر منو صدا نزن','اذیتم نکن همش','چیزی میخوای از من؟','بگو دیگه عه','بلهههه؟','منو صدا میزنی خوشکلم؟','واییی جون دلم🙈','جججوووونن عشقم❤️'}
             return answers[math.random(#answers)]
       end
 	  end
-	  	  if matches[1] == "اسپمر" then
+	  	  if matches[1] == "دیونه" then
       if msg.to.type == 'channel' or 'chat' then
-            local answers = {'spamer 500 t.me/senior_Amin'}
+            local answers = {'🙈','Khodeti Golam','😍😝'}
             return answers[math.random(#answers)]
       end
 	  end
@@ -303,8 +303,8 @@ return {
 	"^شب بخیر$",
 	"اصل",
 	"^سلام$",
-	"شروع",
-	"اسپمر",
+	"الو",
+	"دیونه",
 	"عکس",
 	"لینک",
 	"اره",
